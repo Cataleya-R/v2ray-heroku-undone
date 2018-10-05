@@ -1,4 +1,4 @@
-# 一键部署 v2ray 到 heroku  
+# StopDrug is V2Ray service Quick Deployment App  to Heroku  
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 - - -
 - - -
